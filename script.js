@@ -29,8 +29,8 @@
                 title: "Portfolio Website",
                 description: "My personal portfolio site to showcase my skills, projects, and experience. Fully responsive and designed with modern UI/UX best practices and smooth animations.",
                 tech: ["HTML5", "CSS3", "JavaScript", "Netlify"],
-                github: "https://github.com/Bhumica-jaiswal/Portfolio",
-                demo: "https://bhumica-portfolio.netlify.app"
+                github: "https://github.com/Bhumica-jaiswal/My_Portfolio",
+                demo: "https://bhumica.netlify.app/"
             },
            
         ];
